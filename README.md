@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi !! I am **Xin Yee**<br>🔭 I’m currently a **Year 2 Semester 1 Bachelor of Computer Science (Data Engineering)** student at UTM<br>💞️ve indulging in delicious food and swimming to stay active and refreshed during my free time<br>🌱 I’m currently learning Software Engineering, Database, System Development Technology, Network Communication and Data Structure&Algorithm<br>📫 Reach me at xinyeeteoh0610@gmail.com<br> 
+Hi !! I am **Xin Yee**<br>🔭 I’m currently a **Year 2 Semester 1 Bachelor of Computer Science (Data Engineering)** student at UTM<br>💞️ve indulging in delicious food and swimming to stay active and refreshed during my free time<br>🌱 I’m currently learning Software Engineering, Database, System Development Technology, Network Communication and Data Structure & Algorithm<br>📫 Reach me at xinyeeteoh0610@gmail.com<br> 
 
 
 ## E-Portfolio: 
