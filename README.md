@@ -16,7 +16,7 @@ Feel free to check out my e-portfolio via the link below: https://xinyee610.gith
 **School:** SMJK Krian  
 **Location:** Parit Buntar, Perak  
 **Years:** 2018 - 2022  
-- **Positions Held:**  
+**Positions Held:**  
   - Vice Chairman of **Lembaga Pengawas Pusat Sumber** 📖  
   - Secretary of **Bulan Sabit Merah Malaysia (BSMM)** 🩺
  
